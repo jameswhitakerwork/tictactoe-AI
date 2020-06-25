@@ -1,5 +1,5 @@
 # JetBrains Academy TicTacToe Exercise
-# Stage 1
+# Use the "start user hard" command to play against the optimal mimimax algorithm
 from typing import List
 import random
 from collections import defaultdict
