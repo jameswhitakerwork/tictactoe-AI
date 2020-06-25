@@ -354,4 +354,5 @@ def verify_starting_board(starting_marks):
     return characters_are_valid and len(starting_marks) == 9
 
 
-game = Game()
+if __name__ == "__main__":
+    game = Game()
